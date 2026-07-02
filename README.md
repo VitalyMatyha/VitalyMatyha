@@ -31,7 +31,7 @@
 
 ## 🚀 Проекты
 
-### 📋 [Employee Task Tracker](https://github.com/VitalyMatyha/employee-task-tracker) — дипломный проект
+### 📋 [Employee Task Tracker](https://github.com/VitalyMatyha/employee-task-tracker) 
 > REST API для управления задачами сотрудников
 
 - Django 6 + Django REST Framework + PostgreSQL + Docker
